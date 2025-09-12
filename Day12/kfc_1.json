@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 25
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "韶山",
+      "addressDetail": "车站路28号",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "白石商业广场",
+      "addressDetail": "建设北路8号",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "湘潭新华隆",
+      "addressDetail": "建设南路步步高广场一层",
+      "pro": "Wi-Fi,点唱机,礼品卡,手机点餐",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "湘乡市新湘路",
+      "addressDetail": "新湘路嘉亨茂商业广场一楼肯德基餐厅",
+      "pro": "Wi-Fi,礼品卡",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "湘潭东方红",
+      "addressDetail": "芙蓉路东方红广场负一楼肯德基餐厅",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "湘潭凤凰路",
+      "addressDetail": "凤凰路23号融城大厦一层",
+      "pro": "Wi-Fi,点唱机,手机点餐",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "板塘铺",
+      "addressDetail": "长潭路129号多伦国际商贸城步步高购物中心一层及二层",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "湘潭万达",
+      "addressDetail": "岳塘高新区湘潭大道281号",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "韶山景区",
+      "addressDetail": "韶山景区游客中心",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "麒麟路",
+      "addressDetail": "易俗河镇杨柳中路西侧、荷花路以南欣积福湾三期19#楼一层",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    }
+  ]
+}

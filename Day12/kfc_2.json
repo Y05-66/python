@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 25
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 11,
+      "storeName": "莲城大道",
+      "addressDetail": "九华经开区宝马路3号祥霖九华新城项目1层",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 12,
+      "storeName": "莲城大道",
+      "addressDetail": "九华经开区宝马路3号祥霖九华新城项目1层",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 13,
+      "storeName": "金海步步高",
+      "addressDetail": "昭潭街道韶山西路309号一层",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 14,
+      "storeName": "金海步步高",
+      "addressDetail": "昭潭街道韶山西路309号一层",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 15,
+      "storeName": "湘潭九华步步高",
+      "addressDetail": "九华示范区步步高大道以东、北二环以南新天地步步高街区一层",
+      "pro": "Wi-Fi,点唱机,店内参观,手机点餐",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 16,
+      "storeName": "湘乡克拉小镇",
+      "addressDetail": "9/160门面桑梅西路与城西路交汇处S2(10栋）-101/102/103/158/15",
+      "pro": "Wi-Fi,店内参观,手机点餐",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 17,
+      "storeName": "湘乡克拉小镇",
+      "addressDetail": "9/160门面桑梅西路与城西路交汇处S2(10栋）-101/102/103/158/15",
+      "pro": "Wi-Fi,店内参观,手机点餐",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 18,
+      "storeName": "湘潭天虹",
+      "addressDetail": "宝塔街道福星中路169号福星国际金融中心天虹商场一层",
+      "pro": "手机点餐",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 19,
+      "storeName": "湘潭天虹",
+      "addressDetail": "宝塔街道福星中路169号福星国际金融中心天虹商场一层",
+      "pro": "手机点餐",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    },
+    {
+      "rownum": 20,
+      "storeName": "湘潭湖南科大",
+      "addressDetail": "湖南科技大学五区北校商超一层",
+      "pro": "Wi-Fi,点唱机,手机点餐",
+      "provinceName": "湖南省",
+      "cityName": "湘潭市"
+    }
+  ]
+}
